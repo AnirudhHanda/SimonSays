@@ -22,4 +22,4 @@ Welcome to the Simon Says game repository! This is a classic memory game where p
 
 ## Try It Out
 
-You can try out the game by visiting the [live demo](https://your-demo-link-here.com).
+You can try out the game by visiting the [live demo](https://anirudhhanda.github.io/SimonSays/).
