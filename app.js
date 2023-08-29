@@ -10,6 +10,17 @@ let btns = ["c1", "c2", "c3", "c4"];
 
 let h2 = document.querySelector("h2");
 
+let start = document.querySelector("button");
+
+start.addEventListener("click", function(){
+    if(started == false){
+        console.log("game started");
+        started = true;
+
+        levelUp();
+    }
+});
+
 document.addEventListener("keypress", function(){
     if(started == false){
         console.log("game started");
