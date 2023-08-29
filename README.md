@@ -3,7 +3,7 @@ An interactive game, to rigorously test the concepts of JavaScript. Beautifully 
 
 Welcome to the Simon Says game repository! This is a classic memory game where players need to remember the sequence of colors and repeat it to beat the highest score.
 
-![Game Demo](assets/screenshot) <!-- Replace with a link to a demo GIF or screenshot -->
+![Game Demo](assets/screenshot.PNG) <!-- Replace with a link to a demo GIF or screenshot -->
 
 ## Features
 
