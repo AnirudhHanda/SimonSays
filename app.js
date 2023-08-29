@@ -10,7 +10,7 @@ let btns = ["c1", "c2", "c3", "c4"];
 
 let h2 = document.querySelector("h2");
 
-let start = document.querySelector("button");
+let start = document.querySelector(".container_start");
 
 start.addEventListener("click", function(){
     if(started == false){
