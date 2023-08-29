@@ -185,3 +185,20 @@ span{
 
     }
 }
+
+.container_start{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+
+.start_end{
+    height: 3rem;
+    width: 13rem;
+    /* text-align: center; */
+    font-size: 25px;
+    background-color: #63FFCC;  
+    color: #2d0024;
+    box-shadow: 0 0 8px #63FFCC;
+    border-radius: 10px;
+}
